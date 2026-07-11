@@ -1,0 +1,20 @@
+# Variables de entorno locales
+.env
+
+# Modelos locales (pesados)
+backend/model.pth
+
+# Python caché
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
